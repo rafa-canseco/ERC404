@@ -1,0 +1,12 @@
+{
+  "name": "erc404",
+  "module": "index.ts",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@types/bun": "latest",
+    "hardhat": "^2.19.5"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
